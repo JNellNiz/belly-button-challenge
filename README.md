@@ -1,0 +1,1 @@
+This project involves building an interactive dashboard that allows users to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels. The dataset reveals the presence of microbial species in different individuals.
